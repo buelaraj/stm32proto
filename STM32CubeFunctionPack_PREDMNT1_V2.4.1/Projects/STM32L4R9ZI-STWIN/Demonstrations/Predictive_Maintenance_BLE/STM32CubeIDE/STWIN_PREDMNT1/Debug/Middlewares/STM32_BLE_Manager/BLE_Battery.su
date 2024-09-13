@@ -1,0 +1,4 @@
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Middlewares/ST/STM32_BLE_Manager/Src/BLE_Battery.c:130:13:AttrMod_Request_Battery	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Middlewares/ST/STM32_BLE_Manager/Src/BLE_Battery.c:48:17:BLE_InitBatteryService	272	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Middlewares/ST/STM32_BLE_Manager/Src/BLE_Battery.c:77:6:BLE_SetBatteryAdvertizeData	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Middlewares/ST/STM32_BLE_Manager/Src/BLE_Battery.c:92:12:BLE_BatteryUpdate	296	static

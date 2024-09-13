@@ -1,0 +1,6 @@
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/stm32l4xx_hal_msp.c:35:6:HAL_PCD_MspInit	48	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/stm32l4xx_hal_msp.c:65:6:HAL_PCD_MspDeInit	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/stm32l4xx_hal_msp.c:80:6:HAL_TIM_Base_MspInit	16	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/stm32l4xx_hal_msp.c:111:6:HAL_TIM_OC_MspInit	16	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/stm32l4xx_hal_msp.c:128:6:HAL_CRC_MspInit	8	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/stm32l4xx_hal_msp.c:141:6:HAL_CRC_MspDeInit	0	static

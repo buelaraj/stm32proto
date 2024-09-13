@@ -1,0 +1,4 @@
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Middlewares/ST/STM32_BLE_Manager/Src/BLE_Inertial.c:232:13:AttrMod_Request_Inertial	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Middlewares/ST/STM32_BLE_Manager/Src/BLE_Inertial.c:61:17:BLE_InitInertialService	280	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Middlewares/ST/STM32_BLE_Manager/Src/BLE_Inertial.c:131:6:BLE_SetInertialAdvertizeData	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Middlewares/ST/STM32_BLE_Manager/Src/BLE_Inertial.c:157:12:BLE_AccGyroMagUpdate	304	static

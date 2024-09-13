@@ -1,0 +1,9 @@
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/TargetPlatform.c:238:13:Init_MEMS_Mics	280	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/TargetPlatform.c:291:6:InitTargetPlatform	296	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/TargetPlatform.c:356:6:InitMics	8	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/TargetPlatform.c:367:6:DeInitMics	264	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/TargetPlatform.c:399:6:LedOnTargetPlatform	8	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/TargetPlatform.c:410:6:LedOffTargetPlatform	8	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/TargetPlatform.c:420:6:LedToggleTargetPlatform	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/TargetPlatform.c:490:10:UserFunctionForErasingFlash	32	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/TargetPlatform.c:539:10:UserFunctionForSavingFlash	24	static

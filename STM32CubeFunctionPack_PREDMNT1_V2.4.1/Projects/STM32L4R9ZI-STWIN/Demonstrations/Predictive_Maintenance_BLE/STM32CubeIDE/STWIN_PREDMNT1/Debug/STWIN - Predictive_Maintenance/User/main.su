@@ -1,0 +1,13 @@
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/main.c:470:13:AudioProcess_DB_Noise	8	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/main.c:515:6:ReadEnvironmentalData	40	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/main.c:708:9:getBlueNRG2_Version	336	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/main.c:1269:6:HAL_TIM_OC_DelayElapsedCallback	16	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/main.c:1315:6:HAL_TIM_PeriodElapsedCallback	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/main.c:1331:6:HAL_TIM_IC_CaptureCallback	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/main.c:1344:6:BSP_AUDIO_IN_HalfTransfer_CallBack	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/main.c:1354:6:BSP_AUDIO_IN_TransferComplete_CallBack	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/main.c:1364:6:HAL_GPIO_EXTI_Callback	8	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/main.c:1406:6:HAL_Delay	16	static,ignoring_inline_asm
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/main.c:1420:6:Error_Handler	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/main.c:1433:15:SaveVibrationParamToMemory	264	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/main.c:180:5:main	472	static,ignoring_inline_asm

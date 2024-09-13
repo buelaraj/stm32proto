@@ -1,0 +1,8 @@
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/OTA.c:412:17:GetPage	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/OTA.c:94:6:CleanBeforeRestart	8	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/OTA.c:108:6:ReWriteSizeOfUpdate	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/OTA.c:118:10:ReadRemSizeOfUpdate	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/OTA.c:128:8:CheckBootLoaderCompliance	280	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/OTA.c:176:8:CheckFirstRunAfterFOTA	272	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/OTA.c:234:8:UpdateFWBlueMS	344	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Projects/STM32L4R9ZI-STWIN/Demonstrations/Predictive_Maintenance_BLE/Src/OTA.c:365:6:StartUpdateFWBlueMS	296	static

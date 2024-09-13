@@ -1,0 +1,4 @@
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Middlewares/ST/STM32_BLE_Manager/Src/BLE_FFT_AlarmSubrangeStatus.c:161:13:AttrMod_Request_FFTAlarmSubrangeStatus	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Middlewares/ST/STM32_BLE_Manager/Src/BLE_FFT_AlarmSubrangeStatus.c:49:17:BLE_InitFFTAlarmSubrangeStatusService	272	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Middlewares/ST/STM32_BLE_Manager/Src/BLE_FFT_AlarmSubrangeStatus.c:78:6:BLE_SetFFTAlarmSubrangeStatusAdvertizeData	0	static
+C:/Users/abinaya.LDAP/Downloads/en.fp-ind-predmnt1/STM32CubeFunctionPack_PREDMNT1_V2.4.1/Middlewares/ST/STM32_BLE_Manager/Src/BLE_FFT_AlarmSubrangeStatus.c:92:12:BLE_FFTAlarmSubrangeStatusUpdate	320	static

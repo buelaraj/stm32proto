@@ -1,0 +1,11 @@
+# Object Files
+*.o
+*.d
+*.su
+
+
+
+# Other Directories
+**/hex/
+**/MDK-ARM/
+**/EWARM/
